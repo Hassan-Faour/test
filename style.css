@@ -1,0 +1,43 @@
+
+    body {
+      background-image: url('https://t3.ftcdn.net/jpg/03/37/62/82/360_F_337628212_CDpCZrOD5c4x1VvkAZfrroeZx9ABg9ai.jpg');
+      background-repeat: no-repeat;
+      background-attachment: fixed;
+      background-size: 100% 100%;
+    }
+
+    h1,p{color: #FFF;
+     font-size: 7em;
+     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+     font-weight: 400;
+     font-style: italic;
+     text-transform: capitalize;
+     text-shadow: #FFF;
+    }
+    h4{color: #FFF;
+     font-size: 3em;
+     font-weight: 400;
+     text-transform: capitalize;
+     text-shadow: #FFF;
+    }
+    img,iframe{
+        width: 400px;
+        height: 400px;
+        display: flex;
+        margin: auto;
+        padding-bottom: 120px;
+    }
+    button{
+        display: block;
+        margin: auto;
+        padding: 20px;
+        text-transform: uppercase;
+        border: 0px;
+        border-radius: 0px;
+font-size: 20px;
+color: #FFF;
+background-color: rgb(141, 71, 71,20);
+
+    }
+
+ 
